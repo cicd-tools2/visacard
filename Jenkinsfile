@@ -7,4 +7,7 @@ node('maven-label'){
    echo "stage1"
 
   }
+  stage(3){
+   echo "stage1"
+}
 }
