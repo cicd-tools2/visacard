@@ -1,3 +1,4 @@
 
 spec:
   image: redis
+  port: 8000
